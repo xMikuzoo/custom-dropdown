@@ -1,5 +1,19 @@
-# Vue 3 + TypeScript + Vite
+# Custom Dropdown Vue Component
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project is a custom dropdown component built with Vue 3 and TypeScript, as part of a learning exercise from [roadmap.sh](https://roadmap.sh/projects/custom-dropdown).
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Project Setup
+
+To get started with this project, clone the repository and install the dependencies:
+
+```sh
+npm install
+```
+
+## Development Server
+
+To run the project in development mode with hot-reloading:
+
+```sh
+npm run dev
+```
